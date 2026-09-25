@@ -21,7 +21,6 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="samartcode's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samartcode&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
